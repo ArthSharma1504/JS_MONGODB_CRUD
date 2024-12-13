@@ -49,7 +49,7 @@ Replace `<database-name>` with your MongoDB database name and `<your-secret-key>
 ### 4. Start the MongoDB Server
 Ensure MongoDB is running locally on your system:
 ```bash
-mongod
+mongosh
 ```
 
 ### 5. Start the Application
